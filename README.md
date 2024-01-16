@@ -1,4 +1,4 @@
 # OpenQuick
 
-This repo is a medium of external communication through code of the COlibrITD© *
+This repo is a medium of external communication through the code of the ColibriTD© *
 company.
